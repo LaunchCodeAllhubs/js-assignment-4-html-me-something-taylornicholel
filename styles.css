@@ -20,13 +20,14 @@ body {
   /* ID Selector Element */
   #mainheading {
     color: red;
+    font-size: 50px;
  }
 
  /* Give a paragraph on your page the id of testP and a class name of funParagraph. Use the class selector in styles.css to give it a color value of green. */ /* Wow, both grey and gray are the same color: GO BRITS! */
  #testP {
     color: grey;
  }
- .funParagraph {
+.funParagraph {
     color: green;
- }
+ } 
 
